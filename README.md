@@ -43,3 +43,41 @@ In order to support the exercises and to offer you the best possible individual 
 ![Discord Registration](/images/discord_third.PNG)
 
 5. You can now access the Discord Server. To be able to see all channels you need the role 'Student', which is assigned to you by us.
+
+
+# InfoHaf Server Overview
+
+![Server Overview](/images/server_first.PNG)
+
+## Deutsch
+
+### Überblick
+
+`#willkommen-spam`: Channel mit Spam von neuen Usern
+
+`#ankündigungen`: Wichtige Informationen
+
+`#markdown-guide`: Guide über verwendbares Markdown in Discord
+
+`#regex`: Informationen über Reguläre Ausdrücke
+
+`#allgemein`: Hier könnt Ihr Euch untereinander austauschen
+
+`#tickets`: Channel, um neue Tickets zu erstellen
+
+`free4all 1`: Voice-Channel 1 zur freien Verfügung
+
+`free4all 2`: Voice-Channel 2 zur freien Verfügung
+
+`free4all 3`: Voice-Channel 3 zur freien Verfügung
+
+`Waiting Room`: Warteraum für Fragen an die HiWis
+
+`Room 1`: Voice-Channel 1 für Fragen an die HiWis
+
+`Room 2`: Voice-Channel 2 für Fragen an die HiWis
+
+`Room 3`: Voice-Channel 3 für Fragen an die HiWis
+
+### Tickets
+

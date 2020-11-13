@@ -6,8 +6,17 @@ Um den Übungsbetrieb zu unterstützen und Euch die bestmögliche individuelle H
 
 ### Vorgehensweise
 
-Klickt auf den [Einladungslink](https://discord.gg/2JRJvPe2Af)
+1. Nutzt den bereitgestellten [Einladungslink](https://discord.gg/2JRJvPe2Af).
 
+### Ohne Anmeldung
+
+2. Ihr werdet auf folgende Seite weitergeleitet, auf welcher Ihr euren Benutzernamen eingeben und die Nutzungsbedingungen bestätigen müsst. Anschließend genügt ein Klick auf den Button `Weiter`.
+
+![Discord Username and Terms of Uses](/images/discord_first.PNG)
+
+3. Auf der nächsten Seite müsst Ihr euer Geburtsdatum angeben (um zu bestätigen, dass Ihr 16 Jahre oder älter seid (siehe [Link](https://support.discord.com/hc/de/articles/360040724612))). Anschließend genügt ein Klick auf den Button `Fertig`.
+
+![Discord Birthdate](/images/discord_second.PNG)
 
 
 
